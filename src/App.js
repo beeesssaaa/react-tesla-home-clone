@@ -89,7 +89,6 @@ function App() {
           backgroundImg={Accessories}
           leftBtnTxt='SHOP NOW'
           leftBtnLink=''
-          twoButtons='false'
         />
       </div>
     </div>
