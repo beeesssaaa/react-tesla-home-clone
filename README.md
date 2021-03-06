@@ -1,3 +1,13 @@
+# React-Tesla-Home-Clone
+Tried awesome React tutorial on youtube
+
+
+[🔴 How to Build the Tesla Home Page with ReactJS for Beginners FROM SCRATCH | Tesla Clone ](https://www.youtube.com/watch?v=vIRBSI-elUM)
+
+
+- Images and fonts are available [Here](https://drive.google.com/drive/folders/1Myd9OK3EIm9EXgP1AAch_YEwF2-ngPqH)
+    - Put `assets` and `fonts` into `src` direcotry.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
